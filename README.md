@@ -8,7 +8,7 @@
 
 ---
 
-## 🇬🇧 Project Overview
+##  Project Overview
 
 This project transforms raw hotel booking data (2018–2020, ~142,000 reservations across two hotels) into an interactive Power BI dashboard designed to answer three core business questions:
 
