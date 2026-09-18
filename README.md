@@ -62,7 +62,7 @@ All core measures were built in both SQL (for data preparation/views) and DAX (f
 
 ### Tools Used
 
-`SQL` (data modeling & views) · `Power BI` (data model, DAX, visualization) · `Python/pandas` (validation & QA)
+`SQL` (data modeling & views) · `Power BI` (data model, DAX, visualization) ·
 
 ---
 
@@ -120,4 +120,4 @@ All core measures were built in both SQL (for data preparation/views) and DAX (f
 
 ### الأدوات المستخدمة
 
-`SQL` (تصميم البيانات والـ Views) · `Power BI` (نموذج البيانات، DAX، التصور) · `Python/pandas` (التحقق وضمان الجودة)
+`SQL` (تصميم البيانات والـ Views) · `Power BI` (نموذج البيانات، DAX، التصور) ·
